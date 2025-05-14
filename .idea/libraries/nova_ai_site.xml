@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nova-ai-site">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nova-ai-site.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
